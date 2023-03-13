@@ -9,4 +9,4 @@ if(contador > 3){
     contador = 1;
 }
 
-}, 5000 )
+}, 8000 )
